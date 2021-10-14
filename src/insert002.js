@@ -32,6 +32,5 @@ para subir esta linea de comando lo subo con insertemany y separo cada documento
 "item" es un capo de tipo documento por que se le añadeun documento
 "qty" se le añade un entero
 "tags" se le añade una rayd
-para que me encutre por ejemplo item.code = db.inventory.find( { code.item: { $eq: 123 } } )
- */
+*/
 
